@@ -26,3 +26,7 @@ It supports **conversation threads**, **chat history persistence with SQLite**, 
 
 ## 📂 Project Structure
 
+├── chatbot_backend.py # LangGraph + Groq backend
+├── chatbot.db # SQLite checkpoint database
+├── requirements.txt # Python dependencies
+└── README.md # Documentation
